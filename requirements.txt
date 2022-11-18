@@ -1,0 +1,8 @@
+apex==0.9.10dev
+nibabel==4.0.2
+numpy==1.23.3
+scipy==1.9.1
+SimpleITK==2.2.0
+skimage==0.0
+torch==1.12.1
+yacs==0.1.8
